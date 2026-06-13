@@ -117,15 +117,4 @@ Example: A person born on March 15, 1995 will be:
 - **Date Format** - Use the provided date picker for consistent date entry
 - **Valid Date** - Enter a date that is in the past
 - **Required Field** - A date must be selected before calculation
-
----
-
-## Author
-
-Developed by İrfan Yiğit for accurate age calculation
-
----
-
-## License
-
 This project is open source and available for educational and personal use.
